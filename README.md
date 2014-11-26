@@ -12,6 +12,12 @@ Creates a menu with a single button and up to 10 lines of text right before the 
 
 I *do not* require any credit for this. It is fully open and useable by anybody.
 
+##Branch Information
+
+* master = Current development. New releases are built on this. Generally for the latest version of MC.
+* 1.7.10 = Finalized 1.7.10 code. PR's will most likely not be accepted.
+* 1.6.4 = Finalized 1.6.4 code. PR's will most likely not be accepted.
+
 ##FAQ:
 
 * __Oh no! I found a bug/leak with it! D:__
